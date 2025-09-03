@@ -1,6 +1,6 @@
 <!-- Приветственный баннер с Сатору Годжо -->
 <p align="center">
-  <img src="https://i.pinimg.com/736x/8c/6e/b0/8c6eb0064c97ea431857a6fa919d43bd.jpg" width="120">
+  <img src="https://i.pinimg.com/736x/8c/6e/b0/8c6eb0064c97ea431857a6fa919d43bd.jpg" width="150">
 </p>
 
 <!-- Заголовок и интро -->
