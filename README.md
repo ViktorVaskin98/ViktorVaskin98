@@ -1,6 +1,6 @@
 <!-- Приветственный баннер с Сатору Годжо -->
 <p align="center">
-  <img src="https://i.pinimg.com/736x/8c/6e/b0/8c6eb0064c97ea431857a6fa919d43bd.jpg" width="150">
+  <img src="https://i.pinimg.com/736x/8c/6e/b0/8c6eb0064c97ea431857a6fa919d43bd.jpg" width="180">
 </p>
 
 <!-- Заголовок и интро -->
@@ -44,9 +44,3 @@
 
 ---
 
-### 🔥 Моя статистика на GitHub:
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ViktorVaskin98&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorVaskin98&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
