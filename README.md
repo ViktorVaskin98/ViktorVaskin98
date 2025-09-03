@@ -1,6 +1,6 @@
 <!-- Приветственный баннер с Сатору Годжо -->
 <p align="center">
-  <img src="https://media1.tenor.com/m/fBvQVp0f42oAAAAC/gojo-satoru.gif" width="500">
+  <img src="https://i.pinimg.com/736x/8c/6e/b0/8c6eb0064c97ea431857a6fa919d43bd.jpg" width="500">
 </p>
 
 <!-- Заголовок и интро -->
